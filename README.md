@@ -1,10 +1,10 @@
 👋 Hello
 
-I'm currently building the best borrowing experience across DeFi with Borrower.money
+Hacking my way through DeFi
 
-Software and data engineer background. Degen. In love with web3 and just learning Rust from a Java background.
+Degen, software eng versed in data
 
-@lerichjam on Twitter.
+@lerichjam on Twitter
 
 <!---
 lerichjam/lerichjam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
