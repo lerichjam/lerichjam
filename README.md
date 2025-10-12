@@ -1,8 +1,8 @@
-👋 Hello
+👋 @lerichjam here
 
-Hacking my way through DeFi
+Trying to build something and contributing to a wider DeFi adoption
 
-Degen, software eng versed in data
+Software engineering background. Extensive data proficiency. Financial services experience.
 
 @lerichjam on Twitter
 
